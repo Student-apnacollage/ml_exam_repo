@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 # =====================
 # Load dataset
 # =====================
-df = pd.read_csv("Loan prediction.csv")   # তোমার dataset নাম অনুযায়ী
+df = pd.read_csv("Loan prediction.csv")  
 
 print(df.head())
 
